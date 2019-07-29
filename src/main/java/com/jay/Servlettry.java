@@ -11,6 +11,7 @@ import java.io.IOException;
 public class Servlettry extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("哈哈++");
+        System.out.println("commit");
     }
 
 
